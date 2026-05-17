@@ -1,0 +1,21 @@
+[options]
+focus_follows_mouse = true
+mouse_follows_focus = true
+
+[swipe.gesture]
+direction = "Reversed"
+
+[bindings]
+window_fullwidth = "cmd - return"
+window_center = "alt - c"
+window_focus_west = "cmd - h"
+window_focus_east = "cmd - l"
+window_resize = "alt - r"
+window_manage = "alt + cmd - t"
+window_swap_west = "alt + shift - h"
+window_swap_east = "alt + shift - l"
+window_virtual_north = "cmd + shift - k"
+window_virtual_south = "cmd + shift - j"
+window_virtualmove_north = "cmd + alt - k"
+window_virtualmove_south = "cmd + alt - j"
+quit = "ctrl + alt - q"
