@@ -1,0 +1,3 @@
+WRN 2026-05-17T12:28:39.264 ?.30819    server_start:197: Failed to start server: operation not permitted: /var/folders/x3/67wns6f94tv7bk6lsyn8fkgc0000gn/T/nvim.mat/DIIhZA/nvim.30819.0
+WRN 2026-05-17T12:28:39.264 ?.30820    server_start:197: Failed to start server: operation not permitted: /var/folders/x3/67wns6f94tv7bk6lsyn8fkgc0000gn/T/nvim.mat/No7EtL/nvim.30820.0
+WRN 2026-05-17T12:29:01.707 ?.32821    server_start:197: Failed to start server: operation not permitted: /var/folders/x3/67wns6f94tv7bk6lsyn8fkgc0000gn/T/nvim.mat/IKmYv6/nvim.32821.0
