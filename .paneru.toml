@@ -1,6 +1,7 @@
 [options]
 focus_follows_mouse = true
 mouse_follows_focus = true
+animation_speed = 10
 
 [swipe.gesture]
 direction = "Reversed"
