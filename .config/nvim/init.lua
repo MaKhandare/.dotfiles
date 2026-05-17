@@ -118,9 +118,6 @@ vim.pack.add({
         version = vim.version.range("1.*")
     },
 
-    -- syntax highlighting
-    -- { src = "https://github.com/nvim-treesitter/nvim-treesitter" },
-
     -- auto pair
     { src = "https://github.com/windwp/nvim-autopairs" },
 })
@@ -198,17 +195,6 @@ require("blink.cmp").setup({
     }
 })
 
--- require("nvim-treesitter.configs").setup({
---     ensure_installed = { "python", "elixir", "eex", "heex" },
---     sync_install = false,
---     auto_install = false,
---     highlight = {
---         enable = true
---     },
---     ignore_install = {},
---     modules = {}
--- })
---
 vim.lsp.enable({
     "lua_ls",
     "rust_analyzer",
