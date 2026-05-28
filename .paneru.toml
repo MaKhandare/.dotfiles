@@ -7,6 +7,7 @@ animation_speed = 10
 direction = "Reversed"
 
 [bindings]
+window_focus_first = "alt - i"
 window_fullwidth = "cmd - return"
 window_center = "alt - c"
 window_focus_west = "cmd - h"
